@@ -2,9 +2,11 @@
 title: Schedule
 ---
 
-Aug 22
+Jan 9
 : [Course Introduction](https://github.com/aritter/CS-4650-au22/raw/master/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+<!---
 
 Aug 24
 : [Machine Learning](https://github.com/aritter/CS-4650-au22/raw/master/slides/lec2-ml.pdf)
@@ -116,8 +118,6 @@ Nov 30
 Dec 9
 : Final Project Reports Due (no late days)
   
-<!---
-
 Apr 6
 : [Explanation](https://aritter.github.io/CS-4650-au22/slides/lec21-explanation.pdf)
   : [Jain and Wallace](https://arxiv.org/pdf/1902.10186.pdf), [Lipton](https://arxiv.org/pdf/1606.03490.pdf), [Rudin](https://arxiv.org/pdf/1811.10154.pdf), [LIME Blog Post](https://www.oreilly.com/content/introduction-to-local-interpretable-model-agnostic-explanations-lime/)

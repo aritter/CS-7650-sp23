@@ -41,11 +41,11 @@ We are planning to record and stream lectures over Zoom, so it should be possibl
 
 ## Prerequisites
 
-This is an advanced undergraduate course on Natural Language Processing.  Modern NLP is based heavily on Machine Learning and Deep Learning.  This course involves a lot of math and hands-on programming exercises to implement the algorithms we will discuss in the lecture.  To succeed, you need to have a very strong programming background, in addition to a firm grasp of probability, linear algebra, and multivariable calculus.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.
+This is an advanced graduate course on Natural Language Processing.  Modern NLP is based heavily on Machine Learning and Deep Learning.  The course involves mathematical problem solving and programming exercises to provide hands-on experience with concpets in NLP.  To succeed, you need a strong programming background, in addition to a firm grasp of probability, linear algebra, and multivariable calculus.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.
 
 There will be a math background test (due in the 1st week) and a warmup programming assignment due shortly afterward.
-If you find these problems difficult, you should expect a lot of extra work and challenges to catch up – we strongly suggest you wait and take this class in a later semester.  Please reach out to the
-course staff to discuss whether you have the right background to succeed in this course if there are any symbols or concepts on these assignments which you are unfamiliar with.
+If you find these difficult, you should expect a lot of extra work and challenges to catch up – in that case we recommend waiting to take this class in a later semester, once you are better prepared.
+Please reach out to the course staff to discuss whether you have the right background to succeed in this course if there are any symbols or concepts on these assignments which you are unfamiliar with.
 
 (**For students on the wait list:** we don't have any additional information on whether you will be able to enroll in the course, but if you plan to try and enroll, please complete and submit Problem Set 1, which is due during the first week.  Please post a private Piazza message to get the access code to access Gradescope.)
 
@@ -55,8 +55,8 @@ Graded work will include written and programming assignments. Assignments should
 Please email your homework to the instructor and cc the TAs, in case of any technical issues with submission.
 
 Each student will have six flexible days to turn in late homework throughout the semester. Late days will be applied to homework assignments in the order of submission. As an example, you could turn in the first homework three days late and the second homework three days late without any penalty. After that you will loose 20% for each day further assignments are handed in late.
-Late days and penalties managed in in units of days - there are no ``half'' late days, etc.  Late penalties are also applied to the entire assignment, so it is not possible to turn part of an assignment on time and the other part late.
-These six late days are meant for personal emergencies; if you use late days for non-emergency situations but later encounter emergencies in the semester, you will not be given extra late days. No late days will be allowed for the final course project, due to the tight deadline for posting final grades as required by the university.
+Late penalties are managed in increments of days and apply to the entire assignment.
+The six late days are meant for personal emergencies; if you use late days for non-emergencies but later encounter emergencies, you will not be given extra late days. No late days will be allowed for the final course project, due to the tight deadline for final grades required by the university.
 
 All graded components of the course will be rescaled proportionally into a final numerical grade, which will be mapped to letter grade according to a cutoff based on the overall class grade distribution.The standard cutoff is 90/80/70% for A/B/C, but we may curve up (never down), i.e., use lower cutoffs than these.  These cutoffs can only be determined after we grade the final project at the end of the semester.
 

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CS 4650
+title: CS 7650
 nav_exclude: true
 seo:
   type: Course
@@ -19,11 +19,11 @@ seo:
 
 Although this is an in-person course, we plan to stream lectures using Zoom.  The link is available [here](https://gatech.zoom.us/j/93717817219?pwd=Vlpnc0Q5WVlQVUU1ZEJsLzltWnY1Zz09).
 
-- Location: Klaus Advanced Computing 2443
-- Time: MW 5:00 pm - 6:15 pm
-- [Piazza](https://piazza.com/class/l6sbo1myboz2ww) (announcements, questions, discussion)
-- [Gradescope](https://www.gradescope.com/courses/417826) (homework assignments, submission and grading)
-- [Tentative Course Schedule](https://docs.google.com/spreadsheets/d/1G2Jy78e4QH9-B_oCaQROFlVbTGiF41DgDNEyI4IEv14/edit?usp=sharing)
+- Location: Instructional Center 211
+- Time: MW 2:00 pm - 3:15 pm
+- [Piazza](https://piazza.com/class/lcic025je8w5v5/) (announcements, questions, discussion)
+- [Gradescope](https://www.gradescope.com/courses/482255) (homework assignments, submission and grading)
+- [Tentative Course Schedule](https://docs.google.com/spreadsheets/d/1JivbsuLLw5a1Fm6mY1oL_7eb0jumnUzkTNYV1RXMb1w/edit?usp=sharing)
 
 {% for module in site.modules %}
 {{ module }}
