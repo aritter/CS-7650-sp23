@@ -1,7 +1,7 @@
 ---
-name: Ashutosh Baheti
+name: Shuyan Lin
 role: Teaching Assistant
-email: abaheti95@gatech.edu
+email: slin915@gatech.edu
 website: 
 photo: 
 ---

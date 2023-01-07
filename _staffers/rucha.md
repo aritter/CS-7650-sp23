@@ -1,7 +1,7 @@
 ---
-name: Raj Janardhan
+name: Rucha Sathe
 role: Teaching Assistant
-email: rjanardhan3@gatech.edu
+email: ruchasathe@gatech.edu
 website: 
 photo: 
 ---

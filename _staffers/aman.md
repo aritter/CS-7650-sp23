@@ -1,7 +1,7 @@
 ---
-name: Raj Janardhan
+name: Aman Khullar
 role: Teaching Assistant
-email: rjanardhan3@gatech.edu
+email: akhullar8@gatech.edu
 website: 
 photo: 
 ---
