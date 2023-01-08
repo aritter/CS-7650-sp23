@@ -31,7 +31,7 @@ We **highly** recommend signing up for [Colab Pro](https://colab.research.google
 
 ## Attendance
 
-We are planning to stream lectures over Zoom, so it should be possible to attend the course remotely.  Lectures will not be recorded.
+Students are expected to attend lecture, and complete the required reading assingments.  We plan to set up Zoom, to accomidate students who may prefer to attend class remotely.  Lectures will not be recorded.
 
 ## Resources
 
@@ -41,7 +41,7 @@ We are planning to stream lectures over Zoom, so it should be possible to attend
 
 ## Prerequisites
 
-This is an advanced graduate course on Natural Language Processing.  Modern NLP is based heavily on Machine Learning and Deep Learning.  The course involves mathematical problem solving and programming exercises to provide hands-on experience with concpets in NLP.  To succeed, you need a strong programming background, in addition to a firm grasp of probability, linear algebra, and multivariable calculus.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.
+This is an advanced graduate course on Natural Language Processing.  We assume you have a strong programming background and have taken at least one prior course on AI or Machine Learning.  Modern NLP is heavily based on Machine Learning.  The course involves mathematical problem solving and programming exercises to provide hands-on experience with concepts in NLP.  To succeed, you need a strong programming background, in addition to a firm grasp of probability, linear algebra, and multivariable calculus.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.
 
 There will be a math background test (due in the 1st week) and a warmup programming assignment due shortly afterward.
 If you find these difficult, you should expect a lot of extra work and challenges to catch up – in that case we recommend waiting to take this class in a later semester, once you are better prepared.
