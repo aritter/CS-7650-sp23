@@ -21,7 +21,7 @@ Although this is an in-person course, we plan to stream lectures using Zoom.  Th
 
 - Location: Instructional Center 211
 - Time: MW 2:00 pm - 3:15 pm
-- [Piazza](https://piazza.com/class/lcic025je8w5v5/) (announcements, questions, discussion)
+- [Piazza](https://piazza.com/gatech/spring2023/cs7650/) (announcements, questions, discussion)
 - [Gradescope](https://www.gradescope.com/courses/482255) (homework assignments, submission and grading)
 - [Tentative Course Schedule](https://docs.google.com/spreadsheets/d/1JivbsuLLw5a1Fm6mY1oL_7eb0jumnUzkTNYV1RXMb1w/edit?usp=sharing)
 
