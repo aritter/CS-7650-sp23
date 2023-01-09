@@ -64,9 +64,19 @@ All graded components of the course will be rescaled proportionally into a final
 
 We plan to assign four programming assignments that provide hands-on experience implementing algorithms discussed during lecture.  The assignments are in Python, and make use of the [Numpy](https://numpy.org/) and [Pytorch](https://pytorch.org/) libraries.  These programming projects will require non-trivial computation; we recommend using Google's [Colab](http://colab.research.google.com/) platform which provides access to GPUs.  Completing these projects will require waiting for your models to train (this can range from about 30 minutes to hours depending on the efficiency of your implementation), so we strongly recommend starting work on these programming assignments well in advance of the deadline.  If you start working on an assignment the day before it is due, it is highly unlikely you will be able to complete it on time.
 
+The portion of your final grade based on the programming assignments will be as follows:
+- Project 1 (10%)
+- Project 2 (15%)
+- Project 3 (15%)
+
 ### Written Assignments (Problem Sets) - 20%
 
-Written assignments are mostly be mathematical.  You can scan and upload your solutions to Gradescope.  Please write answers clearly, as we won't be able to award credit for answers that we are not legible.
+Written assignments are mostly mathematical.  You can scan and upload your solutions to Gradescope.  Please write answers clearly, as we won't be able to award credit for answers that we are not legible.
+
+The portion of your final grade based on the written assignments is as follows:
+- Problem Set 0 (5%)
+- Problem Set 1 (7.5%)
+- Problem Set 2 (7.5%)
 
 ### Midterm Exam - 15%
 
