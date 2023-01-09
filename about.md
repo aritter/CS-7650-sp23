@@ -80,7 +80,7 @@ The portion of your final grade based on the written assignments is as follows:
 
 ### Midterm Exam - 15%
 
-The midterm will cover topics that are selected from the, lectures, assigned reading, and homework assignments.
+The midterm will cover topics that are selected from the lectures, assigned reading, and homework assignments.
 
 ### Participation - 5%
 
