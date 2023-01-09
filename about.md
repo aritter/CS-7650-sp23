@@ -31,7 +31,7 @@ We **highly** recommend signing up for [Colab Pro](https://colab.research.google
 
 ## Attendance
 
-Students are expected to attend lecture, and complete the required reading assingments.  We plan to set up Zoom, to accomidate students who may prefer to attend class remotely.  Lectures will not be recorded.
+Students are expected to attend lecture, and complete the required reading assingments.  We plan to set up Zoom, to accomidate students who prefer to attend class remotely due to health reasons.  Lectures will not be recorded.
 
 ## Resources
 
@@ -47,7 +47,7 @@ There will be a math background test (due in the 1st week) and a warmup programm
 If you find these difficult, you should expect a lot of extra work and challenges to catch up – in that case we recommend waiting to take this class in a later semester, once you are better prepared.
 Please reach out to the course staff to discuss whether you have the right background to succeed in this course if there are any symbols or concepts on these assignments which you are unfamiliar with.
 
-(**For students on the wait list:** we don't have any additional information on whether you will be able to enroll in the course, but if you plan to try and enroll, please complete and submit Problem Set 1, which is due during the first week.  Please post a private Piazza message to get the access code to access Gradescope.)
+(**For students on the wait list:** we don't have any additional information on whether you will be able to enroll in the course, but if you plan to try and enroll, please complete and submit Problem Set 0, which is due during the first week.  Please post a Piazza message to get the access code to access Gradescope.)
 
 ## Assignments / Grading
 
