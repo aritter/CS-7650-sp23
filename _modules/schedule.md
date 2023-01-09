@@ -9,7 +9,7 @@ Jan 9
 Jan 12
 : [Problem Set 0](https://github.com/aritter/CS-7650-sp23/raw/master/slides/pset0.pdf) due
 
-TBD
+Feb 2
 : [Project 1](https://colab.research.google.com/drive/1Ymi8FH7UGRykzLtps46zYBubfRx0TpPk?usp=sharing) due
 
 <!---
