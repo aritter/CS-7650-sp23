@@ -17,7 +17,7 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-Although this is an in-person course, we plan to stream lectures using Zoom.  The link is available [here](https://gatech.zoom.us/j/93717817219?pwd=Vlpnc0Q5WVlQVUU1ZEJsLzltWnY1Zz09).
+Although this is an in-person course, we plan to stream lectures using Zoom.  The link is available [here](https://gatech.zoom.us/j/99252718114).
 
 - Location: Instructional Center 211
 - Time: MW 2:00 pm - 3:15 pm
