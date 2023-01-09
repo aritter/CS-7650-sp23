@@ -80,11 +80,11 @@ The portion of your final grade based on the written assignments is as follows:
 
 ### Midterm Exam - 15%
 
-The midterm will be similar in format to the written assignments (problem sets).
+The midterm will cover topics that are selected from the, lectures, assigned reading, and homework assignments.
 
 ### Participation - 5%
 
-You will receive credit for asking and answering thoughtful questions related to the course content on Piazza, engaging in discussion in class and generally for participating in the class.  There are many ways to show participation.  Asking a question that is marked as a ``good question'' by an instructor on Piazza, or having an answer that is marked as an ``endorsed answer'' is one example.  Please be polite and respectful towards TAs and other students in the class.
+You will receive credit for asking and answering thoughtful questions related to the course content on Piazza, engaging in discussion in class and generally for participating in the class.  There are many ways to show participation.  Asking a question that is marked as a "good question" by an instructor on Piazza, or having an answer that is marked as an "endorsed answer" is one example.  Asking insightful questions, and engaging in discussion during class is another example.  Please be polite and respectful towards TAs and other students in the class.
 
 ### Final Project - 20%
 
