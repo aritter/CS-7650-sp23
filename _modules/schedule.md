@@ -7,7 +7,7 @@ Jan 9
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Jan 11
-: [Machine Learning](https://github.com/aritter/CS-7650-au23/raw/master/slides/lec2-ml.pdf)
+: [Machine Learning](https://github.com/aritter/CS-7650-sp23/raw/master/slides/lec2-ml.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Jan 12
