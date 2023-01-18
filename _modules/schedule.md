@@ -13,26 +13,16 @@ Jan 11
 Jan 12
 : [Problem Set 0](https://github.com/aritter/CS-7650-sp23/raw/master/slides/pset0.pdf) due
 
+Jan 18
+: [Machine Learning (multi-class) ](https://aritter.github.io/CS-4650-au22/slides/lec3-mcc.pdf)
+  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 Feb 2
 : [Project 1](https://colab.research.google.com/drive/1Ymi8FH7UGRykzLtps46zYBubfRx0TpPk?usp=sharing) due
 
   
 <!---
 
-Aug 24
-: [Machine Learning](https://github.com/aritter/CS-4650-au22/raw/master/slides/lec2-ml.pdf)
-  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-
-Aug 25
-: [Problem Set 0](https://aritter.github.io/CS-4650-au22/slides/pset0.pdf) due
-
-Aug 29
-: [Machine Learning (cont) ](https://github.com/aritter/CS-4650-au22/raw/master/slides/lec2-ml.pdf) (cont)
-  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-
-Aug 31
-: [Machine Learning (multi-class) ](https://aritter.github.io/CS-4650-au22/slides/lec3-mcc.pdf) (cont)
-  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Sept 6
 : [Project 0](https://colab.research.google.com/drive/1Iw73xF8KLH8afGGnYTR_H_IH9RNTQ7sq?usp=sharing) due
