@@ -14,7 +14,7 @@ Jan 12
 : [Problem Set 0](https://github.com/aritter/CS-7650-sp23/raw/master/slides/pset0.pdf) due
 
 Jan 18
-: [Machine Learning (multi-class) ](https://aritter.github.io/CS-4650-au22/slides/lec3-mcc.pdf)
+: [Machine Learning (multi-class) ](https://aritter.github.io/CS-7650-sp23/slides/lec3-mcc.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Feb 2
