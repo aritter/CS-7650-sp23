@@ -18,7 +18,7 @@ Jan 18
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Jan 25
-: Neural Networks in [Neural Networks in NLP](https://aritter.github.io/CS-7650-sp23/slides/lec6-nn.pdf)
+: [Neural Networks in NLP](https://aritter.github.io/CS-7650-sp23/slides/lec6-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
 Feb 2
