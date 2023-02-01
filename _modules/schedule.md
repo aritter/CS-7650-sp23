@@ -21,6 +21,10 @@ Jan 25
 : [Neural Networks in NLP](https://aritter.github.io/CS-7650-sp23/slides/lec6-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
+Feb 1
+: [Sequence Models](https://aritter.github.io/CS-7650-sp23/slides/lec4-seq1.pdf) 
+  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+
 Feb 2
 : [Project 1](https://colab.research.google.com/drive/1Ymi8FH7UGRykzLtps46zYBubfRx0TpPk?usp=sharing) due
 
@@ -39,9 +43,6 @@ Sept 12
 : Neural Networks in NLP (Cont)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
-Sept 14
-: [Sequence Models](https://aritter.github.io/CS-4650-au22/slides/lec4-seq1.pdf) 
-  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
 Sept 15
 : Problem Set 1 Due
