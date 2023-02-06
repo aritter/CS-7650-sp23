@@ -28,6 +28,9 @@ Feb 1
 Feb 2
 : [Project 1](https://colab.research.google.com/drive/1Ymi8FH7UGRykzLtps46zYBubfRx0TpPk?usp=sharing) due
 
+Feb 6
+: [Conditional Random Fields](https://aritter.github.io/CS-4650-au22/slides/lec5-seq2.pdf)
+  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
   
 <!---
 
