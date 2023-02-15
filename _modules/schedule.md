@@ -33,7 +33,7 @@ Feb 6
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Feb 15
-: [Word Embeddings](https://aritter.github.io/CS-7650-au23/slides/lec7-nn2.pdf)
+: [Word Embeddings](https://aritter.github.io/CS-7650-sp23/slides/lec7-nn2.pdf)
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
 Feb 23
