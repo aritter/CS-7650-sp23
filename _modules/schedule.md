@@ -39,6 +39,10 @@ Feb 15
 Feb 17
 : Problem Set 1 Due
 
+Feb 20
+: [Recurrent Neural Networks](https://aritter.github.io/CS-7650-au23/slides/lec8-nn3.pdf)
+  : [J+M 9.2, 9.4, 9.5, 9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 Mar 16
 : [Project 2](https://colab.research.google.com/drive/15NcA-rM7XZGOcZyGVkaudol-HCqbJRVD?usp=sharing) due
 
