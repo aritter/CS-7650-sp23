@@ -39,6 +39,9 @@ Feb 15
 Feb 17
 : Problem Set 1 Due
 
+Mar 16
+: [Project 2](https://colab.research.google.com/drive/15NcA-rM7XZGOcZyGVkaudol-HCqbJRVD?usp=sharing) due
+
 <!---
 
 
