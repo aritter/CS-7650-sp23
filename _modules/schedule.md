@@ -50,6 +50,10 @@ Feb 27
 March 1
 : No Class
 
+Mar 6
+: [Statistical Machine Translation](https://aritter.github.io/CS-7650-sp23/slides/lec10-mt1.pdf)
+  : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 Mar 16
 : [Project 2](https://colab.research.google.com/drive/15NcA-rM7XZGOcZyGVkaudol-HCqbJRVD?usp=sharing) due
 
