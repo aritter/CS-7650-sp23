@@ -51,6 +51,10 @@ March 1
 : No Class
 
 Mar 6
+: [Neural CRFs](https://aritter.github.io/CS-7650/slides/lec9-nn4.pdf) and [Course Projects](https://aritter.github.io/CS-7650-sp23/slides/course_project.pdf)
+  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Mar 8
 : [Statistical Machine Translation](https://aritter.github.io/CS-7650-sp23/slides/lec10-mt1.pdf)
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
