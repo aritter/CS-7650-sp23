@@ -69,6 +69,12 @@ Mar 15
 Mar 16
 : [Project 2](https://colab.research.google.com/drive/15NcA-rM7XZGOcZyGVkaudol-HCqbJRVD?usp=sharing) due
 
+Mar 31
+: Problem Set 2 Due
+
+Apr 13
+: [Project 3](https://colab.research.google.com/drive/12qMkZEOeks0LmO-H5KJ-RC1DPxom2Lyj?usp=share_link) due
+
 <!---
 
 
