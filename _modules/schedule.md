@@ -69,6 +69,10 @@ Mar 15
 Mar 16
 : [Project 2](https://colab.research.google.com/drive/15NcA-rM7XZGOcZyGVkaudol-HCqbJRVD?usp=sharing) due
 
+Mar 27
+: [Pre-training, BERT](https://aritter.github.io/CS-7650-sp23/slides/lec13-bert.pdf)
+  : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
+
 Mar 31
 : Problem Set 2 Due
 
