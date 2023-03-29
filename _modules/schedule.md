@@ -73,6 +73,10 @@ Mar 27
 : [Pre-training, BERT](https://aritter.github.io/CS-7650-sp23/slides/lec13-bert.pdf)
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
+Mar 29
+: [Pre-training (cont), BART, T5, GPT-3](https://aritter.github.io/CS-7650-sp23/slides/lec14-bart_gpt3.pdf)
+  : [BART](https://aclanthology.org/2020.acl-main.703.pdf), [T5](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf), [GPT-3](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+
 Mar 31
 : Problem Set 2 Due
 
