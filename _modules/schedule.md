@@ -80,6 +80,9 @@ Mar 29
 Mar 31
 : Problem Set 2 Due
 
+April 5
+: [Virutal Guest lecture by Sebastian Gehrmann (Bloomberg)](https://sebastiangehrmann.github.io/) - 3:30-4:45pm
+
 Apr 13
 : [Project 3](https://colab.research.google.com/drive/12qMkZEOeks0LmO-H5KJ-RC1DPxom2Lyj?usp=share_link) due
 
