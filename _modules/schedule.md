@@ -80,6 +80,9 @@ Mar 29
 Mar 31
 : Problem Set 2 Due
 
+April 7
+: Midterm Due
+
 April 12
 : [Virutal Guest lecture by Sebastian Gehrmann (Bloomberg)](https://sebastiangehrmann.github.io/) - 3:30-4:45pm
   : [BloombergGPT](https://arxiv.org/abs/2303.17564)
