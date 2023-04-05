@@ -80,8 +80,9 @@ Mar 29
 Mar 31
 : Problem Set 2 Due
 
-April 7
-: Midterm Due
+Apr 5
+: [Dialogue](https://aritter.github.io/CS-7650-sp23/slides/lec16-dialogue.pdf)
+  : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
 April 12
 : [Virutal Guest lecture by Sebastian Gehrmann (Bloomberg)](https://sebastiangehrmann.github.io/) - 3:30-4:45pm
