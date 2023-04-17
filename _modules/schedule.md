@@ -91,6 +91,16 @@ April 12
 Apr 13
 : [Project 3](https://colab.research.google.com/drive/12qMkZEOeks0LmO-H5KJ-RC1DPxom2Lyj?usp=share_link) due
 
+Apr 17
+: [Question Answering](https://aritter.github.io/CS-7650-sp23/slides/lec18-qa.pdf)
+  : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
+
+Apr 19
+: [Wrapup / QA / Ethics](https://aritter.github.io/CS-7650-sp23/slides/lec18-qa_wrapup.pdf)
+
+Apr 28
+: Final Project Reports Due (no late days)
+
 <!---
 
 
