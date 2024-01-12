@@ -10,9 +10,6 @@ Jan 11
 : [Machine Learning](https://github.com/aritter/CS-7650-sp23/raw/master/slides/lec2-ml.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-Jan 12
-: [Problem Set 0](https://github.com/aritter/CS-7650-sp23/raw/master/slides/pset0.pdf) due
-
 Jan 18
 : [Machine Learning (multi-class) ](https://aritter.github.io/CS-7650-sp23/slides/lec3-mcc.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
@@ -25,9 +22,6 @@ Feb 1
 : [Sequence Models](https://aritter.github.io/CS-7650-sp23/slides/lec4-seq1.pdf) 
   : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
-Feb 2
-: [Project 1](https://colab.research.google.com/drive/1Ymi8FH7UGRykzLtps46zYBubfRx0TpPk?usp=sharing) due
-
 Feb 6
 : [Conditional Random Fields](https://aritter.github.io/CS-7650-sp23/slides/lec5-seq2.pdf)
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
@@ -35,9 +29,6 @@ Feb 6
 Feb 15
 : [Word Embeddings](https://aritter.github.io/CS-7650-sp23/slides/lec7-nn2.pdf)
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
-
-Feb 17
-: Problem Set 1 Due
 
 Feb 20
 : [Recurrent Neural Networks](https://aritter.github.io/CS-7650-sp23/slides/lec8-nn3.pdf)
@@ -66,9 +57,6 @@ Mar 15
 : [Neural Machine Translation, Transformers](https://aritter.github.io/CS-7650-sp23/slides/lec12-mt2.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 10.6](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
-Mar 16
-: [Project 2](https://colab.research.google.com/drive/15NcA-rM7XZGOcZyGVkaudol-HCqbJRVD?usp=sharing) due
-
 Mar 27
 : [Pre-training, BERT](https://aritter.github.io/CS-7650-sp23/slides/lec13-bert.pdf)
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
@@ -77,9 +65,6 @@ Mar 29
 : [Pre-training (cont), BART, T5, GPT-3](https://aritter.github.io/CS-7650-sp23/slides/lec14-bart_gpt3.pdf)
   : [BART](https://aclanthology.org/2020.acl-main.703.pdf), [T5](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf), [GPT-3](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
-Mar 31
-: Problem Set 2 Due
-
 Apr 5
 : [Dialogue](https://aritter.github.io/CS-7650-sp23/slides/lec16-dialogue.pdf)
   : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
@@ -87,9 +72,6 @@ Apr 5
 April 12
 : [Virutal Guest lecture by Sebastian Gehrmann (Bloomberg)](https://sebastiangehrmann.github.io/) - 3:30-4:45pm
   : [BloombergGPT](https://arxiv.org/abs/2303.17564)
-
-Apr 13
-: [Project 3](https://colab.research.google.com/drive/12qMkZEOeks0LmO-H5KJ-RC1DPxom2Lyj?usp=share_link) due
 
 Apr 17
 : [Question Answering](https://aritter.github.io/CS-7650-sp23/slides/lec18-qa.pdf)
